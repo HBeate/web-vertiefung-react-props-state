@@ -1,0 +1,11 @@
+
+.card{
+    position: flex;
+    background-color: aquamarine;
+    min-height: 50px;
+    width: 200px;
+    margin-right: 5px;
+}
+.card:hover{
+    cursor: pointer;
+}
