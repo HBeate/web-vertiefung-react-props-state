@@ -10,7 +10,7 @@ function App() {
       <Vote candidate="Lara" age="18"/>
      <Vote candidate="Marvin"  age="16" />
      <Vote candidate="Alina"  age="14" />
-
+     <Vote candidate="Lukas"  age="9" />
 
       </div>
 
